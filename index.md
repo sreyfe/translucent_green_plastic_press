@@ -5,7 +5,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: TRANSLUCENT GREEN PLASTIC PRESS
+title: Home
 ---
 
 This is the website of the Translucent Green Plastic Press. We're working on some projects like:
