@@ -60,3 +60,15 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+authors:
+  maria:
+    name: Maria Laurids Lazzarotti
+    display_name: Maria
+    img: /assets/img/avis/maria.jpg
+    email: 
+    web: 
+    orcid:
+    twitter:
+    github: asdasd
+    description: maria maria maris

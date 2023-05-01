@@ -2,6 +2,7 @@
 layout: post
 title: Getting Started with Sleek
 featured-img: sleek
+author: maria
 mathjax: true
 ---
 

@@ -41,15 +41,17 @@ layout: compress
       <h1 class="hero__title">{{ page.title }}</h1>
       <p class="hero__meta">
         <span>
-          <time>{{ page.date | date_to_string }}</time>&nbsp;&middot;
+          <time>{{ page.date | date_to_string }}</time>&nbsp;&middot;{{ author.name }}
         </span>
         <span>
-            {% assign words = content | number_of_words %}
-              {% if words < 360 %}
-                1 min
-              {% else %}
-                {{ words | divided_by:180 }} mins
-            {% endif %} read
+    {% assign authors = page.author.size %}
+    {% if authors > 1 %}
+      {% for author in page.author %}
+              {{ site.authors[author].name }}{% unless forloop.rindex0 < 2 %}, {% endunless %}{% if forloop.rindex0 == 1 %} and {% endif %}
+            {% endfor %}
+          {% else %}
+            {{ author.name }}
+          {% endif %}
         </span>
       </p>
     </div>
@@ -60,6 +62,7 @@ layout: compress
       <article class="post-content" itemprop="articleBody">
 
         {{ content }}
+
 
       </article>
       <div class="post-content controls__inner">
@@ -92,21 +95,13 @@ layout: compress
           {% endif %}
         </div>
       </div>
+      <div></div>
+      {% include authors.html %}
+
+
     </div>
 
-    {% if site.disqus.shortname %}
 
-    <div class="comments">
-      <div class="container">
-        <div class="post-content">
-
-          {% include disqus.html %}
-
-        </div>
-      </div>
-    </div>
-
-    {% endif %}
 
   </main>
 

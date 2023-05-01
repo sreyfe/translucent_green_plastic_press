@@ -1,0 +1,37 @@
+<div class="authors">
+  <div class="wrapper">
+    {% assign authors = page.author.size %}
+    {% for author in page.author %}
+      <div class="author-info" {% if forloop.first != true %} {% endif %}>
+        <section class="author" itemprop="author" itemtype="http://schema.org/Person" itemscope="">
+          {% assign author = site.authors[author] %}
+	  <div class="avatarwrapper">
+	    {% if site.authors[author].img %}
+	    <img itemprop="image" src="{{ site.authors[author].img }}" class="author-avatar" alt="{{ site.authors[author].name }}'s photo"> 
+	    {% else %}
+	    <img itemprop="image" src="/images/jd.png" class="author-avatar" alt="no photo"> 
+	    {% endif %}
+          </div>
+          <h2 itemprop="name">{{ site.authors[author].name }}</h2>
+<ul>
+{% if site.authors[author].web %}
+<li><a href="{{ site.authors[author].web }}" itemprop="url"><i class="fa fa-globe" aria-hidden="true"></i></a></li>
+{% endif %}
+{% if site.authors[author].orcid %}
+<li><a href="https://orcid.org/{{ site.authors[author].orcid }}"><i class="fa fa-id-badge" aria-hidden="true"></i></a></li>
+{% endif %}
+{% if site.authors[author].twitter %}
+<li><a href="https://twitter.com/{{ site.authors[author].twitter }}"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+{% endif %}
+{% if site.authors[author].github %}
+<li><a href="https://github.com/{{ site.authors[author].github }}"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+{% endif %}
+</ul>
+<p itemprop="description">{{ site.authors[author].description }}</p>
+
+        		</section>
+            </div>
+{% endfor %}
+</div>
+</div>
+
