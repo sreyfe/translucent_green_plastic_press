@@ -20,7 +20,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Blog', link: '/blog'}
+  - {name: 'Beiträge', link: '/beitraege'}
 tagline: >
 
 hero_img: posts/banner.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
