@@ -12,8 +12,6 @@ mathjax: true
 
 
 
-Instar Lullaby 
-
 Drip, drip, drip, drip... 
 
 Sunlit amber, yet to flow 
