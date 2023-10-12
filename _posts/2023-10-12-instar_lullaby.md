@@ -25,6 +25,8 @@ Unborn myriads, like gems
 Snuggled up to kin, to kin, to kin... 
 
 (fig. I) 
+&nbsp;
+
 
 
 
@@ -41,6 +43,8 @@ With obsidian baby gums
 Whispering sleepy wishes 
 
 (fig. II) 
+&nbsp;
+
 
 
 
@@ -61,6 +65,8 @@ sweet as honey
 (fig. III) 
 
 
+&nbsp;
+
 
 And at the crack and crunch of morning,
 
@@ -76,7 +82,7 @@ skitter about freely
 
 (fig. Lost)
 
-
+&nbsp;&nbsp;
 
 
 
