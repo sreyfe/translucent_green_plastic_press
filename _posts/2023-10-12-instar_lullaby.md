@@ -25,11 +25,7 @@ Unborn myriads, like gems
 Snuggled up to kin, to kin, to kin... 
 
 (fig. I) 
-&nbsp;
-
-
-
-
+&nbsp;&nbsp;
 Rice, banana, milk and pearls 
 
 Tied in hungry knots to bulging flesh
@@ -43,11 +39,7 @@ With obsidian baby gums
 Whispering sleepy wishes 
 
 (fig. II) 
-&nbsp;
-
-
-
-
+&nbsp;&nbsp;
 Waiting for the morning dew 
 
 Strapped in leather belts, 
@@ -63,11 +55,7 @@ star-kissed skies and kisses,
 sweet as honey 
 
 (fig. III) 
-
-
-&nbsp;
-
-
+&nbsp;&nbsp;
 And at the crack and crunch of morning,
 
 away with heavy blankets and the bed, too small
@@ -81,16 +69,12 @@ Be lovely and strange and
 skitter about freely 
 
 (fig. Lost)
-
 &nbsp;&nbsp;
-
-
-
 Figure I
 ![figure I](/assets/img/posts/eggsBW.png)
-
+&nbsp;
 Figure II
 ![figure II](/assets/img/posts/grubBW.png)
-
+&nbsp;
 Figure III
 ![figure III](/assets/img/posts/pupaBW.png)
