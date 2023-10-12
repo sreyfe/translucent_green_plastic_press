@@ -27,7 +27,9 @@ Snuggled up to kin, to kin, to kin...
 (fig. I) 
 
 &nbsp;
+
 &nbsp;
+
 Rice, banana, milk and pearls 
 
 Tied in hungry knots to bulging flesh
@@ -43,7 +45,9 @@ Whispering sleepy wishes
 (fig. II) 
 
 &nbsp;
+
 &nbsp;
+
 Waiting for the morning dew 
 
 Strapped in leather belts, 
@@ -61,7 +65,9 @@ sweet as honey
 (fig. III) 
 
 &nbsp;
+
 &nbsp;
+
 And at the crack and crunch of morning,
 
 away with heavy blankets and the bed, too small
@@ -77,14 +83,18 @@ skitter about freely
 (fig. Lost)
 
 &nbsp;
+
 &nbsp;
+
 Figure I
 ![figure I](/assets/img/posts/eggsBW.png)
 
 &nbsp;
+
 Figure II
 ![figure II](/assets/img/posts/grubBW.png)
 
 &nbsp;
+
 Figure III
 ![figure III](/assets/img/posts/pupaBW.png)
