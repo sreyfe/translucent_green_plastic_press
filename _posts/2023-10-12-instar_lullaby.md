@@ -12,7 +12,6 @@ mathjax: true
 
 ---
 
-\*
 Instar Lullaby 
 Drip, drip, drip, drip... 
 Sunlit amber, yet to flow 
@@ -48,4 +47,4 @@ skitter about freely
 
 
 Figure I
-![figure 1](/assets/image/posts/eggsBW.png)
+![figure 1](/assets/img/posts/eggsBW.png)
